@@ -2,7 +2,7 @@
 
 **Logging transport for GELF/Graylog**
 
-This is a logging transport for [@reallysimple/logger](https://github.com/really-useful/logger).
+This is a logging transport for [@reallyuseful/logger](https://github.com/really-useful/logger).
 
 It logs to a [GELF](http://docs.graylog.org/en/2.4/pages/gelf.html) server (the protocol used by [Graylog](https://www.graylog.org/)).
 
